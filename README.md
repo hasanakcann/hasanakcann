@@ -41,4 +41,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" title="ChatGPT / OpenAI" width="40"/>
 </p>
