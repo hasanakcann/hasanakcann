@@ -5,6 +5,10 @@
 <div align="center" style="padding: 2rem; color: black;">
   <p>I am a software engineer specializing in the development of scalable and sustainable systems, leveraging modern architectural principles. My priorities include clean code, system reliability, and architectural consistency across platforms. I am currently exploring new opportunities where I can contribute to software architecture and deliver long-term value in high-performing teams.
   </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasanakcann&label=Profile%20views&color=0e75b6&style=flat" alt="hasanakcann" />
+</p>
     
 <p>
     <a href="https://www.linkedin.com/in/hasanakcan/" target="_blank">
