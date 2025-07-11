@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasanakcann/hasanakcann/main/hasan-akcan-banner.png" alt="Hasan Akcan Banner" width="50%" height="200px"  />
+  <img src="https://raw.githubusercontent.com/hasanakcann/hasanakcann/main/hasan-akcan-banner.png" alt="Hasan Akcan Banner" width="100%" height="300px"  />
 </p>
 
 <div align="center" style="padding: 2rem; color: black;">
   <div style="max-width: 800px; margin: auto; font-size: 16px; line-height: 1.8; text-align: left;">
   <p>
-    I am a results-driven software engineer with hands-on experience in designing and delivering scalable, maintainable, and resilient systems.
-    My core focus lies in applying modern architectural paradigms such as microservices, domain-driven design (DDD), and event-driven architecture
-    to solve complex business challenges effectively.
+    I am a results-driven software engineer with hands-on experience in designing and delivering scalable, maintainable, and resilient systems. My core focus lies in applying modern architectural paradigms such as microservices, domain-driven design (DDD), and event-driven architecture     to solve complex business challenges effectively.
   </p>
 
   <p>
@@ -22,16 +20,14 @@
   </p>
 </div>
 
-  <h3>Software Engineer</h3>
-
-  <p>
+ <p>
     <a href="https://www.linkedin.com/in/hasanakcan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:hasanakcann@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
-  </p>
+ </p>
 </div>
 
 <p align="center">
@@ -51,6 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" title="OpenTelemetry" width="40"/>
   <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" title="Swagger" width="40"/>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.vKRpZHq2L_sRbjDmxBgmmgHaDf?pid=ImgDet&rs=1" title="Scalar API" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40"/>
@@ -61,4 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" width="40"/>
   <img src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/refs/heads/assets/images/ocelot_logo.png" title="Ocelot" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="40"/>
 </p>
