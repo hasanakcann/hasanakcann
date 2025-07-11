@@ -3,36 +3,15 @@
 </p>
 
 <div align="center" style="padding: 2rem; color: black;">
-  <div style="max-width: 800px; margin: auto; font-size: 16px; line-height: 1.8; text-align: left;">
-  <p>
-    I am a results-driven software engineer with hands-on experience in designing and delivering scalable, maintainable, and resilient systems. My core focus lies in applying modern architectural paradigms such as microservices, domain-driven design (DDD), and event-driven architecture     to solve complex business challenges effectively.
+  <p>I am a software engineer specializing in the development of scalable and sustainable systems, leveraging modern architectural principles. My priorities include clean code, system reliability, and architectural consistency across platforms. I am currently exploring new opportunities where I can contribute to software architecture and deliver long-term value in high-performing teams.
   </p>
-
-  <p>
-    Throughout my projects, I have contributed to both implementation and architectural decision-making processes—
-    striking a balance between technical excellence, team alignment, and long-term maintainability.
-    I place strong emphasis on clean code practices, system reliability, and architectural consistency across services.
-  </p>
-
-  <p>
-    I am currently seeking new opportunities where I can take a more active role in software architecture,
-    collaborate within high-performing engineering teams, and contribute to building robust, future-ready digital platforms.
-  </p>
-</div>
-
- <p>
+    
+<p>
     <a href="https://www.linkedin.com/in/hasanakcan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:hasanakcann@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-    </a>
- </p>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasanakcann&label=Profile%20views&color=0e75b6&style=flat" alt="hasanakcann" />
 </p>
+</div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40"/>
