@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasanakcann/hasanakcann/main/hasan-akcan-banner.png" alt="Hasan Akcan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/hasanakcann/hasanakcann/main/hasan-akcan-banner.png" alt="Hasan Akcan Banner" width="50%" height="200px"  />
 </p>
 
 <div align="center" style="padding: 2rem; color: black;">
